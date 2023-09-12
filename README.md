@@ -1,2 +1,1 @@
-# melodic_guitar_music_album_cover
- Album cover for "Melodic Guitar Music" by Adrian Holovary
+Album cover for "Melodic Guitar Music" by Adrian Holovary: https://www.holovaty.com/melodic-guitar-music/
